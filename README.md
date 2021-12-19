@@ -95,8 +95,7 @@ html {
       </div>
     </div>
   </div>
-
-  <div class="column">
+    <div class="column">
     <div class="card">
       <img src="/w3images/team2.jpg" alt="Mike" style="width:100%">
       <div class="container">
@@ -108,8 +107,7 @@ html {
       </div>
     </div>
   </div>
-  
-  <div class="column">
+    <div class="column">
     <div class="card">
       <img src="/w3images/team3.jpg" alt="John" style="width:100%">
       <div class="container">
@@ -134,7 +132,6 @@ html {
         </div>
       </div>
     </div>
-  
     <div class="column">
       <div class="card">
         <img src="/w3images/team2.jpg" alt="Adrian Lamo" style="width:100%">
@@ -147,7 +144,6 @@ html {
         </div>
       </div>
     </div>
-    
     <div class="column">
       <div class="card">
         <img src="/w3images/team3.jpg" alt="Michael Calce" style="width:100%">
@@ -159,7 +155,7 @@ html {
           <p><button class="button">Contact</button></p>
         </div>
       </div>
-</div>
+    </div>
 
 </body>
 </html>
