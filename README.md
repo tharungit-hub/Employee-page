@@ -77,11 +77,8 @@ html {
 </style>
 </head>
 <body>
-
 <h2>Employee page</h2>
-
 <br>
-
 <div class="row">
   <div class="column">
     <div class="card">
